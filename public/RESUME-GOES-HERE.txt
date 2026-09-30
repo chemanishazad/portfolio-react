@@ -1,0 +1,9 @@
+Drop your résumé PDF in this folder, named exactly:
+
+    Manikandan-R-Resume.pdf
+
+The download buttons in the nav, hero and contact section point at
+/Manikandan-R-Resume.pdf (configured as `contact.resume` in
+src/data/content.js). Rename that value if you prefer a different filename.
+
+You can delete this note once the PDF is in place.
