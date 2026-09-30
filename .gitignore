@@ -1,5 +1,9 @@
 node_modules
+.next
+out
 dist
 .DS_Store
 *.local
-.vite
+*.tsbuildinfo
+next-env.d.ts
+_delete_me
